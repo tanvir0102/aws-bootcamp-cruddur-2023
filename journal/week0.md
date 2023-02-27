@@ -2,15 +2,15 @@
 
 ## Bootcamp prerequisites
 - [x] Create a Free GITHUB Account
-- [x] Setup MFA on your GITHUB Account #739
-- [ ] Create a Free GITPOD Account
-- [ ] Get the GITPOD Button using Chrome Extension
-- [ ] Setup GITHUB Code spaces
-- [ ] Create Your AWS Account
-- [ ] Create Your Repository from the GITHUB Template
-- [ ] Create Your Free Lucidchart Account
-- [ ] Create Your Free Honeycomb.io Account
-- [ ] Create Your Free Rollbar Account
+- [x] Setup MFA on your GITHUB Account
+- [x] Create a Free GITPOD Account
+- [x] Get the GITPOD Button using Chrome Extension
+- [x] Setup GITHUB Code spaces
+- [x] Create Your AWS Account
+- [x] Create Your Repository from the GITHUB Template
+- [x] Create Your Free Lucidchart Account
+- [x] Create Your Free Honeycomb.io Account
+- [x] Create Your Free Rollbar Account
 
 ## Getting the AWS CLI Working
 
