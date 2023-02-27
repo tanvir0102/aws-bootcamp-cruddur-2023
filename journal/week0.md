@@ -153,5 +153,5 @@ aws budgets create-budget \
 ![Napkin Design Diagram](/_docs/assets/cruddur-napkin-design.jpg)
 
 ## Conceptual Design Diagram
-This design diagram created using [Lucidchart](https://lucid.app/lucidchart/92650fca-10c3-4e37-ae24-05185f4d8e36/edit?viewport_loc=84%2C-121%2C1480%2C639%2C0_0&invitationId=inv_561d6d50-565c-4d3a-abe4-3167005a08d4).
+This design diagram created using [Lucidchart App](https://lucid.app/lucidchart/92650fca-10c3-4e37-ae24-05185f4d8e36/edit?viewport_loc=84%2C-121%2C1480%2C639%2C0_0&invitationId=inv_561d6d50-565c-4d3a-abe4-3167005a08d4).
 ![Conceptual Design Diagram](/_docs/assets/cruddur-conceptual-diagram.png)
