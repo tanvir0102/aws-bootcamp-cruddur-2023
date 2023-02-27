@@ -15,7 +15,7 @@
 ## Getting the AWS CLI Working
 
 We'll be using the AWS CLI often in this bootcamp,
-so we'll proceed to installing this account.
+so we'll proceed to installing the AWS CLI in this account.
 
 
 ### Install AWS CLI
