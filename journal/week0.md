@@ -149,4 +149,9 @@ aws budgets create-budget \
 ```
 
 ## Napkin Design for the CRUDDUR Micro-blogging Application
-![Napkin Design](/_docs/assets/cruddur-napkin-design.jpg)
+
+![Napkin Design Diagram](/_docs/assets/cruddur-napkin-design.jpg)
+
+## Conceptual Design Diagram
+
+![Conceptual Design Diagram](/_docs/assets/cruddur-conceptual-diagram.png)
