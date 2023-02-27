@@ -1,5 +1,19 @@
 # Week 0 — Billing and Architecture
 
+## Bootcamp prerequisites
+- [ ] Create a Free GITHUB Account
+- [ ] Setup MFA on your GITHUB Account
+- [ ] Create a Free GITPOD Account
+- [ ] Get the GITPOD Button using Chrome Extension
+- [ ] Setup GITHUB Code spaces
+- [ ] Create Your AWS Account
+- [ ] Create Your Repository from the GITHUB Template
+- [ ] Create Your Free Lucidchart Account
+- [ ] Create Your Free Honeycomb.io Account
+- [ ] Create Your Free Rollbar Account
+
+![image](https://user-images.githubusercontent.com/8452040/221614286-cbe439da-b3b6-4cbe-899d-e62135c7d6ec.png)
+
 
 ## Getting the AWS CLI Working
 
