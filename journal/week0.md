@@ -12,9 +12,6 @@
 - [ ] Create Your Free Honeycomb.io Account
 - [ ] Create Your Free Rollbar Account
 
-![image](https://user-images.githubusercontent.com/8452040/221614286-cbe439da-b3b6-4cbe-899d-e62135c7d6ec.png)
-
-
 ## Getting the AWS CLI Working
 
 We'll be using the AWS CLI often in this bootcamp,
