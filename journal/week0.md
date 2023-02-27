@@ -1,7 +1,7 @@
 # Week 0 — Billing and Architecture
 
 ## Bootcamp prerequisites
-- [ ] Create a Free GITHUB Account
+- [x] Create a Free GITHUB Account
 - [ ] Setup MFA on your GITHUB Account
 - [ ] Create a Free GITPOD Account
 - [ ] Get the GITPOD Button using Chrome Extension
