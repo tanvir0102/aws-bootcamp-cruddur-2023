@@ -2,7 +2,7 @@
 
 ## Bootcamp prerequisites
 - [x] Create a Free GITHUB Account
-- [ ] Setup MFA on your GITHUB Account
+- [x] Setup MFA on your GITHUB Account #739
 - [ ] Create a Free GITPOD Account
 - [ ] Get the GITPOD Button using Chrome Extension
 - [ ] Setup GITHUB Code spaces
