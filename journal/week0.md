@@ -171,3 +171,8 @@ I have added AWS IAM, AWS KMS and AWS Secrets Manager as part of the security se
 ### CI/CD Pipeline Design Diagram on AWS Cloud
 This CI/CD design diagram created using [Lucidchart App](https://lucid.app/lucidchart/ea5089ae-ffd6-42ee-a707-e6726e8762a7/edit?viewport_loc=-176%2C152%2C2220%2C958%2C0_0&invitationId=inv_eac66b45-d17d-4a4d-a41c-9c4f82aa0084).
 ![CI/CD Pipeline Design Diagram](/_docs/assets/cruddur-cicd-pipeline-aws.png)
+
+## Reference Documentation used and followed
+[Manage AWS Service Quotas](https://aws.amazon.com/premiumsupport/knowledge-center/manage-service-limits/)
+[Monitoring AWS Health events with Amazon EventBridge](https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html)
+[CI/CD pipelines and deploy the application to Amazon ECS clusters](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/automatically-build-ci-cd-pipelines-and-amazon-ecs-clusters-for-microservices-using-aws-cdk.html)
