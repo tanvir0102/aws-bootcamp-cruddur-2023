@@ -148,10 +148,16 @@ aws budgets create-budget \
     --notifications-with-subscribers file://aws/json/budget-notifications-with-subscribers.json
 ```
 
-## Napkin Design for the CRUDDUR Micro-blogging Application
+
+## Homework Challenges
+### Napkin Design for the CRUDDUR Micro-blogging Application
 
 ![Napkin Design Diagram](/_docs/assets/cruddur-napkin-design.jpg)
 
-## Conceptual Design Diagram
+### Conceptual Design Diagram
 This design diagram created using [Lucidchart App](https://lucid.app/lucidchart/92650fca-10c3-4e37-ae24-05185f4d8e36/edit?viewport_loc=84%2C-121%2C1480%2C639%2C0_0&invitationId=inv_561d6d50-565c-4d3a-abe4-3167005a08d4).
 ![Conceptual Design Diagram](/_docs/assets/cruddur-conceptual-diagram.png)
+
+### Conceptual Architecture Design Diagram on AWS Cloud
+This Architecture design diagram created using [Lucidchart App](https://lucid.app/lucidchart/4a0864b0-8709-45f1-9384-6da614617267/edit?viewport_loc=-116%2C10%2C2220%2C958%2C0_0&invitationId=inv_f34d3d44-a525-4382-b79d-b087e80693c7).
+![Conceptual Architecture Design Diagram](/_docs/assets/cruddur-conceptual-arch-diagram-aws.png)
