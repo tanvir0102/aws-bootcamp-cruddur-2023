@@ -165,6 +165,7 @@ I have added AWS IAM, AWS KMS and AWS Secrets Manager as part of the security se
 - AWS IAM : Will be used to create role and policy to provide least previledge/access to the services ( eg. ecs service role )
 - AWS KMS : Provides a highly available key storage, management, and auditing solution to encrypt the data across AWS services & within applications (eg. KMS key for RDS).
 - AWS Secrets Manager : Enables you to easily store, rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle.
+
 ![Conceptual Architecture Design Diagram](/_docs/assets/cruddur-conceptual-arch-diagram-aws.png)
 
 ### CI/CD Pipeline Design Diagram on AWS Cloud
