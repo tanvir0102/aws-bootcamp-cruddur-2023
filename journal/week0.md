@@ -161,3 +161,7 @@ This design diagram created using [Lucidchart App](https://lucid.app/lucidchart/
 ### Conceptual Architecture Design Diagram on AWS Cloud
 This Architecture design diagram created using [Lucidchart App](https://lucid.app/lucidchart/4a0864b0-8709-45f1-9384-6da614617267/edit?viewport_loc=-116%2C10%2C2220%2C958%2C0_0&invitationId=inv_f34d3d44-a525-4382-b79d-b087e80693c7).
 ![Conceptual Architecture Design Diagram](/_docs/assets/cruddur-conceptual-arch-diagram-aws.png)
+
+### CI/CD Pipeline Design Diagram on AWS Cloud
+This CI/CD design diagram created using [Lucidchart App](https://lucid.app/lucidchart/ea5089ae-ffd6-42ee-a707-e6726e8762a7/edit?viewport_loc=-176%2C152%2C2220%2C958%2C0_0&invitationId=inv_eac66b45-d17d-4a4d-a41c-9c4f82aa0084).
+![CI/CD Pipeline Design Diagram](/_docs/assets/cruddur-cicd-pipeline-aws.png)
