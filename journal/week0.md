@@ -173,6 +173,6 @@ This CI/CD design diagram created using [Lucidchart App](https://lucid.app/lucid
 ![CI/CD Pipeline Design Diagram](/_docs/assets/cruddur-cicd-pipeline-aws.png)
 
 ## Reference Documentation used and followed
-[Manage AWS Service Quotas](https://aws.amazon.com/premiumsupport/knowledge-center/manage-service-limits/)
-[Monitoring AWS Health events with Amazon EventBridge](https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html)
-[CI/CD pipelines and deploy the application to Amazon ECS clusters](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/automatically-build-ci-cd-pipelines-and-amazon-ecs-clusters-for-microservices-using-aws-cdk.html)
+1. [Manage AWS Service Quotas](https://aws.amazon.com/premiumsupport/knowledge-center/manage-service-limits/)
+2. [Monitoring AWS Health events with Amazon EventBridge](https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html)
+3. [CI/CD pipelines and deploy the application to Amazon ECS clusters](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/automatically-build-ci-cd-pipelines-and-amazon-ecs-clusters-for-microservices-using-aws-cdk.html)
