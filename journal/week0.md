@@ -162,9 +162,9 @@ This design diagram created using [Lucidchart App](https://lucid.app/lucidchart/
 This Architecture design diagram created using [Lucidchart App](https://lucid.app/lucidchart/4a0864b0-8709-45f1-9384-6da614617267/edit?viewport_loc=-116%2C10%2C2220%2C958%2C0_0&invitationId=inv_f34d3d44-a525-4382-b79d-b087e80693c7).
 
 I have added AWS IAM, AWS KMS and AWS Secrets Manager as part of the security services in the architecture diagram.
-AWS IAM : Will be used to create role and policy to provide least previledge/access to the services ( eg. ecs service role )
-AWS KMS : Provides a highly available key storage, management, and auditing solution to encrypt the data across AWS services & within applications (eg. KMS key for RDS).
-AWS Secrets Manager : Enables you to easily store, rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle.
+- AWS IAM : Will be used to create role and policy to provide least previledge/access to the services ( eg. ecs service role )
+- AWS KMS : Provides a highly available key storage, management, and auditing solution to encrypt the data across AWS services & within applications (eg. KMS key for RDS).
+- AWS Secrets Manager : Enables you to easily store, rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle.
 ![Conceptual Architecture Design Diagram](/_docs/assets/cruddur-conceptual-arch-diagram-aws.png)
 
 ### CI/CD Pipeline Design Diagram on AWS Cloud
