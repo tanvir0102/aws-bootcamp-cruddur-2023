@@ -5,6 +5,10 @@
 Good Article for Debugging Connection Refused
 https://pythonspeed.com/articles/docker-connection-refused/
 
+## Install Python3 on Gitpod Shell
+```
+pyenv install 3.6.4
+```
 
 ## VSCode Docker Extension
 
