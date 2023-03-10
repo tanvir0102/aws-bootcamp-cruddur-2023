@@ -156,7 +156,7 @@ paths:
       parameters: []
       responses:
         '200':
-          description: Retun an array of activities
+          description: Retuns an array of activities
           content:
             application/json:
               schema:
